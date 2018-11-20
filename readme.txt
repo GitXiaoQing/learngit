@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Git don't use --no-ff.
 Test --no-ff.
+Test bug.
